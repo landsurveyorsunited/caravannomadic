@@ -101,11 +101,11 @@ iframe#youmax-video {
 }
 
 .youmax-load-more-div-click {
-	background: darkgray;
+	background: rgba(231, 76, 60,1.0);
 	color:white;	
 }
 
 #youmax-load-more-div:hover {
-	background: darkgray;
+	background: rgba(52, 152, 219,1.0);
 	color:white;
 }
