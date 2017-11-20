@@ -9,7 +9,7 @@ body {
 
 .youmax-duration {background-color: black;color: white;padding: 2px 3px;font-weight: bold;position: absolute;bottom: 0;right: 0;opacity: 0.8;}
 
-#youmax-header {background-color:rgb(46, 204, 113);font:24px Arial;color:white;line-height:25px;height:90px;text-align:left;border: 1px solid rgb(53,53,53);position: relative;}
+#youmax-header {background-color:rgba(44, 62, 80,1.0);font:24px Arial;color:white;line-height:25px;height:90px;text-align:left;border: 1px solid rgb(53,53,53);position: relative;}
 
 .youmax-stat {float:right;margin:10px;font:10px Arial;color:#ccc;margin-top: 25px;text-align: center;}
 
