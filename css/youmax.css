@@ -19,13 +19,13 @@ body {
 
 #youmax-channel-desc {text-align:left;}
 
-#youmax {width:100%; max-width:1000px;background-color: rgb(230,230,230);margin:0px auto;font-family: Calibri;font-size: 14px;text-align:center; overflow-x:hidden;}
+#youmax {width:100%; max-width:1000px;background-color: rgba(52, 73, 94,1.0);margin:0px auto;font-family: Calibri;font-size: 14px;text-align:center; overflow-x:hidden;}
 
 .youmax-video-tnail {width:100%; background-repeat:no-repeat; background-size:cover;height:180px;position: relative;}
 
 .youmax-video-tnail-box {width:46%;margin:2%;float:left;overflow:hidden;box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 1px 3px rgba(0, 0, 0, 0.2);cursor:pointer;cursor:hand;  background-color: white;}
 
-#youmax-encloser {border-left: 1px solid #cccccc;border-right: 1px solid #cccccc;border-bottom: 1px solid #cccccc;  padding-top: 20px;}
+#youmax-encloser {border-left: 2px solid rgba(211, 84, 0,1.0);border-right: 1px solid #cccccc;border-bottom: 1px solid #cccccc;  padding-top: 20px;}
 
 #youmax-video-list-div {width:100%;text-align:left;display: inline-block;background-color:rgb(230,230,230);	  padding: 0px 15px; box-sizing: border-box;}
 
@@ -40,7 +40,7 @@ body {
 .youmax-playlist-sidebar-video {opacity:1;width:64px;height:20%;background-color:rgb(114,114,114);display:inline-block;margin:2% auto;background-size:cover;background-position: center center;background-repeat:no-repeat;}
 .youmax-tab {background-color:rgb(230,230,230);color:#666;text-shadow:0 1px 0 #fff;display: inline-block;margin: 5px;margin-top: 10px;padding: 5px;cursor:pointer;cursor:hand;}
 
-#youmax-tabs {text-align:left;background-color:rgb(230,230,230);padding-left: 10px;border-left: 1px solid #cccccc;border-right: 1px solid #cccccc;     padding: 25px 30px 0px 30px;font-size: 18px;}
+#youmax-tabs {text-align:left;background-color:rgba(211, 84, 0,0.7);padding-left: 10px;border-left: 1px solid #cccccc;border-right: 1px solid #cccccc;     padding: 25px 30px 0px 30px;font-size: 18px;}
 
 #youmax-lightbox {position:fixed;background-color:rgba(0,0,0,0.9);z-index:100;width:100%;height:100%;left:0;top:0;}
 
