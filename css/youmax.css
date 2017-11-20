@@ -98,6 +98,7 @@ font-size: 18px;
 
 iframe#youmax-video {
   margin-bottom: 20px !important;
+	z-index:200;
 }
 
 .youmax-load-more-div-click {
